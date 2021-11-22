@@ -1,0 +1,15 @@
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.dll.config
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.dll
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.pdb
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.csprojAssemblyReference.cache
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.csproj.CoreCompileInputs.cache
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.dll
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.pdb
+D:\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.dll.config
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\bin\Debug\ServiceMtk-P1-NIM.pdb
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.csproj.CoreCompileInputs.cache
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.dll
+D:\KULIAH\Semester 5\Pengembangan Aplikasi Terdistribusi\Bintang Aji Priambodo\Pertemuan 3\ServiceMtk-P1-NIM\ServiceMtk-P1-NIM\obj\Debug\ServiceMtk-P1-NIM.pdb
